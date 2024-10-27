@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Hasan Khuluq Nugrahadi</h1>
 <h3 align="center">Saatnya Reboisasi🟩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasannugrahadi&label=Profile%20views&color=0e75b6&style=flat" alt="hasannugrahadi" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hasannugrahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasannugrahadi" height="30" width="40" /></a>
